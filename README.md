@@ -1,4 +1,4 @@
-# Method Arguments Lab
+irb# Method Arguments Lab
 
 ## Objectives
 
